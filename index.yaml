@@ -3,7 +3,21 @@ entries:
   gate:
   - apiVersion: v1
     appVersion: 1.1.6
-    created: "2020-01-14T03:20:58.999173813Z"
+    created: "2020-11-06T09:35:21.824508709Z"
+    description: Single Sign On platform for centralised authentication across Linux,
+      OpenVPN and CAS.
+    digest: d7ab9ab9ad61cebfe12fa033b1dceaafd6548e31531b7171de6dc830a491d5a6
+    home: https://github.com/gate-sso/gate
+    name: gate
+    sources:
+    - https://github.com/gate-sso/gate
+    tillerVersion: '>=2.4.0'
+    urls:
+    - https://gate-sso.github.io/helm-packages/gate-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v1
+    appVersion: 1.1.6
+    created: "2020-11-06T09:35:21.823875771Z"
     description: Single Sign On platform for centralised authentication across Linux,
       OpenVPN and CAS.
     digest: 5f056115ceda1194726a13fc4d8e4ce67b001d3ba08caeabfbfe373ea41e7fb0
@@ -17,7 +31,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2020-01-14T03:20:58.998791889Z"
+    created: "2020-11-06T09:35:21.823169698Z"
     description: Single Sign On platform for centralised authentication across Linux,
       OpenVPN and CAS.
     digest: 44065fbc6f9691c1afee33cc7a59e350e03ca31491361f80e0b8e684486889c1
@@ -31,7 +45,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2020-01-14T03:20:58.997770307Z"
+    created: "2020-11-06T09:35:21.822489788Z"
     description: Single Sign On platform for centralised authentication across Linux,
       OpenVPN and CAS.
     digest: 0b4b12ab5e158b04296f1e13f4eb8f5c9df06eb5ed9d79e202fe546f757a5426
@@ -45,7 +59,7 @@ entries:
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2020-01-14T03:20:58.99706215Z"
+    created: "2020-11-06T09:35:21.821738166Z"
     description: Single Sign On platform for centralised authentication across Linux,
       OpenVPN and CAS.
     digest: 4e2a03d5b444e4fdf829864a52fed804f022c5cb1d93311e7ef59736b4e8c1b0
@@ -57,4 +71,4 @@ entries:
     urls:
     - https://gate-sso.github.io/helm-packages/gate-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-14T03:20:58.996039299Z"
+generated: "2020-11-06T09:35:21.820466691Z"
